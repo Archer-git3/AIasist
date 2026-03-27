@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-multipart
+chromadb
+httpx
+requests
+easyocr
+pymupdf
+python-docx
+Pillow
+numpy
+pydantic
+python-dotenv
